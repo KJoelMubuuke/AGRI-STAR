@@ -92,7 +92,7 @@ agri-star/
 ## Installation & Setup
 
 ### 1️ Clone the Repository
-git clone https://github.com/your-username/agri-star.git
+git clone https://github.com/KJoelMubuuke/AGRI-STAR.git
 cd agri-star
 
 
